@@ -125,3 +125,4 @@ eb terminate django-env
 
 - For detailed instructions, refer to the [AWS Elastic Beanstalk Documentation](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html).
 - This template is a starting point; customize it according to your project's needs.
+
